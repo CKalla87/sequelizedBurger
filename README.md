@@ -1,4 +1,4 @@
-# Eat-Da-Burger
+# Eat-Da-Burger With Sequelizer
 A restaurant app that lets users input the names of burgers they'd like to eat.
 
 1. Install all the npm packages needed. Please visit site: https://floating-reef-10843.herokuapp.com/
